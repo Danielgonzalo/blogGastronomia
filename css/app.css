@@ -1,0 +1,21 @@
+body{
+  background-image: url(https://www.absolutviajes.com/wp-content/uploads/2008/10/bandeja-paisa-png.png);
+  color: white;
+  border: solid rgba(255, 255, 255, 0.48);
+  background-attachment: fixed;
+}
+.nombre1{
+  background-color: rgba(247, 247, 247, 0.53);
+  border: solid rgba(255, 255, 255, 0.48);
+  }
+.borde1{
+  border: solid rgba(255, 255, 255, 0.48);
+  }
+.contenedorinfo{
+  background-color: rgba(255, 235, 179, 0.65);
+}
+.comentarios{
+  border: 2px solid white;
+  box-shadow: 1px 1px 1px 1px;
+  color: black;
+}
